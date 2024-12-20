@@ -1,0 +1,19 @@
+{
+  "name": "fetchfrominternetsavedatabasemongo",
+  "version": "1.0.0",
+  "description": "Fetch data from internet and saved to mongodb database.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Batuhan Ozkan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cron": "^2.1.0",
+    "mongodb": "^4.11.0",
+    "node-fetch": "^2.6.6",
+    "slugify": "^1.6.5"
+  },
+  "engines": {
+    "node": "16.13.2"
+  }
+}
