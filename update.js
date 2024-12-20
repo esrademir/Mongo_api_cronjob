@@ -4,7 +4,7 @@ const slugify = require("slugify");
 var CronJob = require('cron').CronJob;
 
 var MONGO_CONN_URL =
-    "mongodb+srv://bozkitoski_admin:rZTVYHSDDbngOcnL@burclarbozki.lof87jj.mongodb.net/?retryWrites=true&w=majority";
+    "mongodb+srv://user:rZTVYHSDDbngOcnL@burclarbozki.lof87jj.mongodb.net/?retryWrites=true&w=majority";
 
 
 
